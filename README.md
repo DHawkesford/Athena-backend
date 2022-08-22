@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/XgsioqF.jpg" style="width: 200px" />
 </center>
 
-</br></br>
+[Link to front-end repo](https://github.com/DHawkesford/Athena-frontend)
 
 ## Table Of Contents
 
